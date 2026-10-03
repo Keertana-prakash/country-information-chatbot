@@ -1,0 +1,122 @@
+[
+  {
+    "countryName": "India",
+    "capital": "New Delhi",
+    "nationalAnimal": "Bengal Tiger",
+    "nationalFlower": "Lotus"
+  },
+  {
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "nationalAnimal": "Bald Eagle",
+    "nationalFlower": "Rose"
+  },
+  {
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Tudor Rose"
+  },
+  {
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "nationalAnimal": "Beaver",
+    "nationalFlower": "Bunchberry"
+  },
+  {
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "nationalAnimal": "Red Kangaroo",
+    "nationalFlower": "Golden Wattle"
+  },
+  {
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "nationalAnimal": "Green Pheasant",
+    "nationalFlower": "Cherry Blossom"
+  },
+  {
+    "countryName": "China",
+    "capital": "Beijing",
+    "nationalAnimal": "Giant Panda",
+    "nationalFlower": "Plum Blossom"
+  },
+  {
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "nationalAnimal": "Federal Eagle",
+    "nationalFlower": "Cornflower"
+  },
+  {
+    "countryName": "France",
+    "capital": "Paris",
+    "nationalAnimal": "Gallic Rooster",
+    "nationalFlower": "Iris"
+  },
+  {
+    "countryName": "Italy",
+    "capital": "Rome",
+    "nationalAnimal": "Italian Wolf",
+    "nationalFlower": "Stylized Lily"
+  },
+  {
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "nationalAnimal": "Jaguar",
+    "nationalFlower": "Cattleya Orchid"
+  },
+  {
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "nationalAnimal": "Golden Eagle",
+    "nationalFlower": "Dahlia"
+  },
+  {
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "nationalAnimal": "Springbok",
+    "nationalFlower": "King Protea"
+  },
+  {
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "nationalAnimal": "Steppe Eagle",
+    "nationalFlower": "Egyptian Lotus"
+  },
+  {
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "nationalAnimal": "Eagle",
+    "nationalFlower": "Costus Spectabilis"
+  },
+  {
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "nationalAnimal": "Eurasian Brown Bear",
+    "nationalFlower": "Chamomile"
+  },
+  {
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "nationalAnimal": "Siberian Tiger",
+    "nationalFlower": "Hibiscus"
+  },
+  {
+    "countryName": "Singapore",
+    "capital": "Singapore",
+    "nationalAnimal": "Lion",
+    "nationalFlower": "Vanda Miss Joaquim"
+  },
+  {
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "nationalAnimal": "Thai Elephant",
+    "nationalFlower": "Golden Shower"
+  },
+  {
+    "countryName": "New Zealand",
+    "capital": "Wellington",
+    "nationalAnimal": "Kiwi",
+    "nationalFlower": "Kowhai"
+  }
+]
